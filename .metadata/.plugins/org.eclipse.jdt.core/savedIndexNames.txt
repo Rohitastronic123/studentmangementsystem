@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Lenovo\Desktop\Student-Management-Application-in-Java-with-MySQL-master\.metadata\.plugins\org.eclipse.jdt.core
